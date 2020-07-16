@@ -21,6 +21,8 @@ Check:
 - Ruby on Rails (MVC framework)	
     - TwP/logging-rails
     - cerebris/jsonapi-resources	
+    - mperham/sidekiq (asynchronous work)
+    - krisleech/wisper (publish-subscribe capabilities)
 
 #### Javascript (language)
 - Typescript
@@ -31,7 +33,7 @@ Check:
     - machty/ember-concurrency-decorators
     - miragejs/ember-cli-mirage
     - offirgolan/ember-cp-validations
-    - simplabs/ember-test-selectors 
+    - **simplabs/ember-test-selectors:** Auto `data-test-...` features for the project
     - yapplabs/ember-wormhole
 
 #### CSS (language)
