@@ -31,7 +31,7 @@ Check:
     - kategengler/ember-feature-flags
     - machty/ember-concurrency
     - machty/ember-concurrency-decorators
-    - miragejs/ember-cli-mirage
+    - **miragejs/ember-cli-mirage:** Ember Mirage library that lets mock out backend APIs
     - offirgolan/ember-cp-validations
     - **simplabs/ember-test-selectors:** Auto `data-test-...` features for the project
     - yapplabs/ember-wormhole
@@ -41,7 +41,7 @@ Check:
 
 #### Communication
 - HTTP REST (Communication protocol)
-    - JSON API (Communication format)
+    - JSON API (Data format specification)
 
 - Amqp (Queue Protocol)
     - RabbitMQ (Queue manager)
